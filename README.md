@@ -1,6 +1,16 @@
+## SVG
+
 <table>
 <tr>
 <td style="border-style:none;"><img src="yamisskey.svg" width="300px"></td>
+</tr>
+</table>
+  
+## PNG
+
+<table>
+<tr>
+<td style="border-style:none;"><img src="yamisskey_tests_g.png" width="300px"></td>
 </tr>
 </table>
   
